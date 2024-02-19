@@ -1,0 +1,9 @@
+name: Set Gallery Cover
+description: Set an image in a gallery as its cover image.
+url: https://github.com/Valkyr-JS/StashPlugins/tree/setGalleryCover
+version: 0.1.0
+ui:
+  javascript:
+    - setGalleryCover.js
+  css:
+    - setGalleryCover.css
